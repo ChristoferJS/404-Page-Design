@@ -6,8 +6,8 @@ A simple 404 Error Page Design.
 ## Implementation
 ***Implementing the 404 page on your website.***
 
-First, download/use this 404 page (css file included) or create your own.
-After that, create a **.htaccess** file. just keep the name " .htaccess ". Do not rename it to anything besides that.
+First, either download/use the 404 page I created (css file included) or create your own. 
+Then, create a **.htaccess** file. Just keep the ".htaccess" extension. Do not rename it to anything else.
 
 Insert this code into your **.htaccess** file:
 ```
